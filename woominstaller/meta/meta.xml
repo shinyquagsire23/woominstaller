@@ -69,42 +69,42 @@
   <reserved_flag5 type="hexBinary" length="4">00000000</reserved_flag5>
   <reserved_flag6 type="hexBinary" length="4">00000003</reserved_flag6>
   <reserved_flag7 type="hexBinary" length="4">00000000</reserved_flag7>
-  <longname_ja length="512" type="string">App Name （日本）</longname_ja>
+  <longname_ja length="512" type="string">Woomïnstaller</longname_ja>
   <longname_en length="512" type="string">Woomïnstaller</longname_en>
-  <longname_fr length="512" type="string">App Name (FR)</longname_fr>
-  <longname_de length="512" type="string">App Name (DE)</longname_de>
-  <longname_it length="512" type="string">App Name (IT)</longname_it>
-  <longname_es length="512" type="string">App Name (ES)</longname_es>
-  <longname_zhs length="512" type="string">App Name (ZHS)</longname_zhs>
-  <longname_ko length="512" type="string">App Name (KO)</longname_ko>
-  <longname_nl length="512" type="string">App Name (NL)</longname_nl>
-  <longname_pt length="512" type="string">App Name (PT)</longname_pt>
-  <longname_ru length="512" type="string">App Name (RU)</longname_ru>
-  <longname_zht length="512" type="string">App Name (ZHT)</longname_zht>
-  <shortname_ja length="256" type="string">App Name Short （日本）</shortname_ja>
+  <longname_fr length="512" type="string">Woomïnstaller</longname_fr>
+  <longname_de length="512" type="string">Woomïnstaller</longname_de>
+  <longname_it length="512" type="string">Woomïnstaller</longname_it>
+  <longname_es length="512" type="string">Woomïnstaller</longname_es>
+  <longname_zhs length="512" type="string">Woomïnstaller</longname_zhs>
+  <longname_ko length="512" type="string">Woomïnstaller</longname_ko>
+  <longname_nl length="512" type="string">Woomïnstaller</longname_nl>
+  <longname_pt length="512" type="string">Woomïnstaller</longname_pt>
+  <longname_ru length="512" type="string">Woomïnstaller</longname_ru>
+  <longname_zht length="512" type="string">Woomïnstaller</longname_zht>
+  <shortname_ja length="256" type="string">Woomïnstaller</shortname_ja>
   <shortname_en length="256" type="string">Woomïnstaller</shortname_en>
-  <shortname_fr length="256" type="string">App Name Short (FR)</shortname_fr>
-  <shortname_de length="256" type="string">App Name Short (DE)</shortname_de>
-  <shortname_it length="256" type="string">App Name Short (IT)</shortname_it>
-  <shortname_es length="256" type="string">App Name Short (ES)</shortname_es>
-  <shortname_zhs length="256" type="string">App Name Short (ZHS)</shortname_zhs>
-  <shortname_ko length="256" type="string">App Name Short (KO)</shortname_ko>
-  <shortname_nl length="256" type="string">App Name Short (NL)</shortname_nl>
-  <shortname_pt length="256" type="string">App Name Short (PT)</shortname_pt>
-  <shortname_ru length="256" type="string">App Name Short (RU)</shortname_ru>
-  <shortname_zht length="256" type="string">App Name Short (ZHT)</shortname_zht>
-  <publisher_ja length="256" type="string">パブリッシャー名（日本）</publisher_ja>
+  <shortname_fr length="256" type="string">Woomïnstaller</shortname_fr>
+  <shortname_de length="256" type="string">Woomïnstaller</shortname_de>
+  <shortname_it length="256" type="string">Woomïnstaller</shortname_it>
+  <shortname_es length="256" type="string">Woomïnstaller</shortname_es>
+  <shortname_zhs length="256" type="string">Woomïnstaller</shortname_zhs>
+  <shortname_ko length="256" type="string">Woomïnstaller</shortname_ko>
+  <shortname_nl length="256" type="string">Woomïnstaller</shortname_nl>
+  <shortname_pt length="256" type="string">Woomïnstaller</shortname_pt>
+  <shortname_ru length="256" type="string">Woomïnstaller</shortname_ru>
+  <shortname_zht length="256" type="string">Woomïnstaller</shortname_zht>
+  <publisher_ja length="256" type="string">Homebrew Install Manager</publisher_ja>
   <publisher_en length="256" type="string">Homebrew Install Manager</publisher_en>
-  <publisher_fr length="256" type="string">Publisher Name (FR)</publisher_fr>
-  <publisher_de length="256" type="string">Publisher Name (DE)</publisher_de>
-  <publisher_it length="256" type="string">Publisher Name (IT)</publisher_it>
-  <publisher_es length="256" type="string">Publisher Name (ES)</publisher_es>
-  <publisher_zhs length="256" type="string">Publisher Name (ZHS)</publisher_zhs>
-  <publisher_ko length="256" type="string">Publisher Name (KO)</publisher_ko>
-  <publisher_nl length="256" type="string">Publisher Name (NL)</publisher_nl>
-  <publisher_pt length="256" type="string">Publisher Name (PT)</publisher_pt>
-  <publisher_ru length="256" type="string">Publisher Name (RU)</publisher_ru>
-  <publisher_zht length="256" type="string">Publisher Name (ZHT)</publisher_zht>
+  <publisher_fr length="256" type="string">Homebrew Install Manager</publisher_fr>
+  <publisher_de length="256" type="string">Homebrew Install Manager</publisher_de>
+  <publisher_it length="256" type="string">Homebrew Install Manager</publisher_it>
+  <publisher_es length="256" type="string">Homebrew Install Manager</publisher_es>
+  <publisher_zhs length="256" type="string">Homebrew Install Manager</publisher_zhs>
+  <publisher_ko length="256" type="string">Homebrew Install Manager</publisher_ko>
+  <publisher_nl length="256" type="string">Homebrew Install Manager</publisher_nl>
+  <publisher_pt length="256" type="string">Homebrew Install Manager</publisher_pt>
+  <publisher_ru length="256" type="string">Homebrew Install Manager</publisher_ru>
+  <publisher_zht length="256" type="string">Homebrew Install Manager</publisher_zht>
   <add_on_unique_id0 type="hexBinary" length="4">0000144F</add_on_unique_id0>
   <add_on_unique_id1 type="hexBinary" length="4">00000000</add_on_unique_id1>
   <add_on_unique_id2 type="hexBinary" length="4">00000000</add_on_unique_id2>
