@@ -32,7 +32,7 @@
   <wood_tin type="unsignedInt" length="4">0</wood_tin>
   <e_manual type="unsignedInt" length="4">0</e_manual>
   <e_manual_version type="unsignedInt" length="4">0</e_manual_version>
-  <region type="hexBinary" length="4">00000002</region>
+  <region type="hexBinary" length="4">000000FF</region>
   <pc_cero type="unsignedInt" length="4">128</pc_cero>
   <pc_esrb type="unsignedInt" length="4">10</pc_esrb>
   <pc_bbfc type="unsignedInt" length="4">192</pc_bbfc>
